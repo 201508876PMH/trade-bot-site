@@ -1,0 +1,4 @@
+# By default, VitePress stores its dev server cache here
+.vitepress/cache
+# Vitepress production build output
+.vitepress/dist

@@ -7,7 +7,7 @@ export default defineConfig({
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/robot.svg',
+    logo: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/master/docs/images/robot.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }

@@ -6,7 +6,7 @@ export default defineConfig({
   title: "T-BOTs",
   description: "Automate crypto pair trading",
   themeConfig: {
-    logo: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/master/docs/images/robot.svg',
+    logo: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/9d7a2d61110942842c92b3a805fbc0b23cb1a2bc/public/images/robot.svg',
     search: {
       provider: 'local'
     },

@@ -7,7 +7,7 @@ hero:
   text: "Trading automated "
   tagline: Crypto pair trading using advanced strategies and real-time market data
   image:
-    src: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/master/docs/images/robot.svg'
+    src: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/9d7a2d61110942842c92b3a805fbc0b23cb1a2bc/public/images/robot.svg'
     alt: VitePress
   actions:
     - theme: brand
@@ -28,4 +28,9 @@ hero:
 
 ---
 <!-- Wide banner or big image below -->
+<div style="max-width: 1600px; margin: 1rem auto 0 auto;">
+  <img src="https://raw.githubusercontent.com/201508876PMH/trade-bot-site/refs/heads/master/public/images/home.png" 
+       alt="Wide banner" 
+       style="width: 100%; height: auto; border-radius: 12px;" />
+</div>
 

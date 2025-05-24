@@ -1,0 +1,9 @@
+:root {
+  --vp-home-hero-name-color: #5086A1;
+
+  --vp-button-brand-text: #000;         /* Normal state */
+  --vp-button-brand-hover-text: #000;   /* Hover state */
+
+  --vp-button-brand-bg: #6aa1b7;
+  --vp-button-brand-hover-bg: #8CCCD5;
+}

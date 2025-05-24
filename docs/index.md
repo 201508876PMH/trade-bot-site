@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "BOTArmy"
-  text: "Docs"
-  tagline: Automated crypto trading bots 
+  name: T-BOTs 
+  text: "Trading automated "
+  tagline: Crypto pair trading using advanced strategies and real-time market data
+  image:
+    src: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/master/docs/images/robot.svg'
+    alt: VitePress
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +25,7 @@ hero:
 #  - title: Feature C
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #---
+
+---
+<!-- Wide banner or big image below -->
 

@@ -1,7 +1,7 @@
 import re
 
 # Input file
-input_file = "full_backtest_report.md"
+input_file = "full_backtest_report.txt"
 
 # Define sections and their output filenames
 sections = [

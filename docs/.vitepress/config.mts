@@ -12,7 +12,7 @@ export default defineConfig({
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2025-present TBOTs You'
     },
-    logo: 'public/images/robot.svg',
+    logo: '/images/robot.svg',
     search: {
       provider: 'local'
     },

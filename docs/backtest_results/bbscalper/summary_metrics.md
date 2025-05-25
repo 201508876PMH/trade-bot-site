@@ -6,43 +6,49 @@
 │ Trading Mode                │ Isolated Futures       │
 │ Max open trades             │ 3                      │
 │                             │                        │
-│ Total/Daily Avg Trades      │ 1292 / 3.47            │
+│ Total/Daily Avg Trades      │ 1929 / 5.19            │
 │ Starting balance            │ 1000 USDT              │
-│ Final balance               │ 415.056 USDT           │
-│ Absolute profit             │ -584.944 USDT          │
-│ Total profit %              │ -58.49%                │
-│ CAGR %                      │ -57.80%                │
-│ Sortino                     │ -10.17                 │
-│ Sharpe                      │ -6.76                  │
-│ Calmar                      │ -5.02                  │
-│ Profit factor               │ 0.78                   │
-│ Expectancy (Ratio)          │ -0.45 (-0.10)          │
+│ Final balance               │ 400.088 USDT           │
+│ Absolute profit             │ -599.912 USDT          │
+│ Total profit %              │ -59.99%                │
+│ CAGR %                      │ -59.30%                │
+│ Sortino                     │ -11.32                 │
+│ Sharpe                      │ -6.64                  │
+│ Calmar                      │ -4.67                  │
+│ Profit factor               │ 0.85                   │
+│ Expectancy (Ratio)          │ -0.31 (-0.06)          │
 │ Avg. daily profit %         │ -0.16%                 │
-│ Avg. stake amount           │ 186.666 USDT           │
-│ Total trade volume          │ 241172.504 USDT        │
+│ Avg. stake amount           │ 195.941 USDT           │
+│ Total trade volume          │ 377969.791 USDT        │
 │                             │                        │
-│ Best Pair                   │ ETH/USDT:USDT -3.19%   │
-│ Worst Pair                  │ DOGE/USDT:USDT -25.81% │
-│ Best trade                  │ ETH/USDT:USDT 4.00%    │
-│ Worst trade                 │ ETH/USDT:USDT -3.36%   │
-│ Best day                    │ 25.846 USDT            │
-│ Worst day                   │ -60.808 USDT           │
-│ Days win/draw/lose          │ 162 / 27 / 182         │
-│ Avg. Duration Winners       │ 8:36:00                │
-│ Avg. Duration Loser         │ 15:43:00               │
-│ Max Consecutive Wins / Loss │ 17 / 12                │
-│ Rejected Entry signals      │ 1293                   │
+│ Long / Short                │ 961 / 968              │
+│ Total profit Long %         │ -42.42%                │
+│ Total profit Short %        │ -17.57%                │
+│ Absolute profit Long        │ -424.178 USDT          │
+│ Absolute profit Short       │ -175.734 USDT          │
+│                             │                        │
+│ Best Pair                   │ ETH/USDT:USDT -5.75%   │
+│ Worst Pair                  │ DOGE/USDT:USDT -23.63% │
+│ Best trade                  │ DOGE/USDT:USDT 4.00%   │
+│ Worst trade                 │ ETH/USDT:USDT -3.32%   │
+│ Best day                    │ 52.912 USDT            │
+│ Worst day                   │ -65.115 USDT           │
+│ Days win/draw/lose          │ 168 / 8 / 197          │
+│ Avg. Duration Winners       │ 8:54:00                │
+│ Avg. Duration Loser         │ 13:09:00               │
+│ Max Consecutive Wins / Loss │ 20 / 9                 │
+│ Rejected Entry signals      │ 2893                   │
 │ Entry/Exit Timeouts         │ 0 / 0                  │
 │                             │                        │
-│ Min balance                 │ 397.764 USDT           │
-│ Max balance                 │ 990.024 USDT           │
-│ Max % of account underwater │ 59.82%                 │
-│ Absolute Drawdown (Account) │ 59.82%                 │
-│ Absolute Drawdown           │ 592.26 USDT            │
-│ Drawdown high               │ -9.976 USDT            │
-│ Drawdown low                │ -602.236 USDT          │
-│ Drawdown Start              │ 2024-01-03 11:45:00    │
-│ Drawdown End                │ 2024-12-30 14:30:00    │
+│ Min balance                 │ 358.914 USDT           │
+│ Max balance                 │ 1053.824 USDT          │
+│ Max % of account underwater │ 65.94%                 │
+│ Absolute Drawdown (Account) │ 65.94%                 │
+│ Absolute Drawdown           │ 694.91 USDT            │
+│ Drawdown high               │ 53.824 USDT            │
+│ Drawdown low                │ -641.086 USDT          │
+│ Drawdown Start              │ 2024-01-04 01:15:00    │
+│ Drawdown End                │ 2024-12-30 01:00:00    │
 │ Market change               │ 116.06%                │
 └─────────────────────────────┴────────────────────────┘
 

@@ -6,6 +6,7 @@ export default defineConfig({
   title: "T-BOTs",
   head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/4a238427290248c9965c310afd7513e0a0199eb8/public/images/robot.svg' }]],
   description: "Automate crypto pair trading",
+  lastUpdated: true,
   themeConfig: {
     logo: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/4a238427290248c9965c310afd7513e0a0199eb8/public/images/robot.svg',
     search: {
@@ -18,7 +19,8 @@ export default defineConfig({
         items: [
           { text: 'BBScalper', link: '/bbscalper' }
         ]
-      }
+      },
+      { text: 'Team', link: '/team' },
     ],
 
     socialLinks: [

@@ -5,7 +5,7 @@ This page documents the performance and behavior of the **BBScalper** trading st
 The data presented here is based on historical backtesting within a specified time frame and trading conditions. It is intended to provide a quantitative overview of how the strategy performs under simulated market conditions.
 
 ::: info Data
-Backtest results can be downloaed here: :bar_chart:<code>[test](https://github.com/201508876PMH)</code>
+Backtest results can be downloaed here: :bar_chart:<code>[bbscalper](https://github.com/201508876PMH/trade-bot-site/blob/master/docs/backtest_results/bbscalper/full_backtest_report.txt)</code>
 :::
 ## Backtest.conf
 ```json:line-numbers{14}
@@ -33,25 +33,25 @@ The following section provides a detailed breakdown of the backtesting results f
 
 ### **BACKTESTING REPORT**
 
-````md{11}
+````md{8}
 <!--@include: /backtest_results/bbscalper/backtest_report.md-->
 ````
 
 **LEFT OPEN TRADES REPORT**
 
-```md{7}
+```md
 <!--@include: /backtest_results/bbscalper/left_open_trades_report.md-->
 ```
 
 **ENTER TAG STATS**
 
-```md{5}
+```md
 <!--@include: /backtest_results/bbscalper/enter_tags.md-->
 ```
 
 **EXIT REASON STATS**
 
-```md{7}
+```md
 <!--@include: /backtest_results/bbscalper/exit_tags.md-->
 ```
 **MIXED TAG STATS**

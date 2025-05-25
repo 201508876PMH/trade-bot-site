@@ -29,7 +29,7 @@ hero:
 ---
 <!-- Wide banner or big image below -->
 <div style="max-width: 1600px; margin: 1rem auto 0 auto;">
-  <img src="/images/home.png" 
+  <img src="public/images/home.png" 
        alt="Wide banner" 
        style="width: 100%; height: auto; border-radius: 12px;" />
 </div>

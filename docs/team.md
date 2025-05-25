@@ -37,7 +37,7 @@ const coreMembers = [
 ]
 const partners = [
     {
-    avatar: 'https://avatars.githubusercontent.com/u/38226095?v=4',
+    avatar: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/666e9375a84d1fe6086afa704d6717c8ba60e00a/public/images/stocks.svg',
     name: 'Hans Kristian',
     title: 'Crypto, stocks & trading',
   }

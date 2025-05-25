@@ -1,5 +1,5 @@
 # BBScalper Strategy
-
+#### Type <Badge type="warning" text="HF"/><Badge type="tip" text="Indicators"/>
 This page documents the performance and behavior of the **BBScalper** trading strategy, including backtesting results, key performance metrics, and trade analytics.
 
 The data presented here is based on historical backtesting within a specified time frame and trading conditions. It is intended to provide a quantitative overview of how the strategy performs under simulated market conditions.

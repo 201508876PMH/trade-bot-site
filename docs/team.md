@@ -37,9 +37,9 @@ const coreMembers = [
 ]
 const partners = [
     {
-    avatar: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/cdac5d2b021b9452f22f0e10ebd358593d9ad99a/public/images/bitcoin.svg',
+    avatar: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/4a8302490307c95969cb691c7b3e70c104038c2c/public/images/bitcoin.svg',
     name: 'Hans Kristian',
-    title: 'Crypto, stocks & trading',
+    title: 'Crypto, stocks & trading, (Forex day trader)',
   }
 ]
 </script>
@@ -49,7 +49,7 @@ const partners = [
     <template #title>Our Team</template>
     <template #lead> The development of T-BOTs is guided by a mixed team of friends, some of whom have chosen to be featured below.</template>
   </VPTeamPageTitle>
-  <VPTeamMembers size="medium" :members="coreMembers" />
+  <VPTeamMembers size="small" :members="coreMembers" />
   <VPTeamPageSection>
     <template #title>Partners</template>
     <template #lead> Trusted collaborators and advisors who have contributed valuable insights, tools, and support to the T-BOTs project.

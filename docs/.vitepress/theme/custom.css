@@ -6,5 +6,18 @@
 
   --vp-button-brand-bg: #6aa1b7;
   --vp-button-brand-hover-bg: #8CCCD5;
+  --vp-layout-max-width: 1850px;
+}
 
+
+.VPDoc:not(.has-sidebar) .container {
+  max-width: 1514px !important;
+}
+
+.VPDoc:not(.has-sidebar) .content {
+  max-width: 1194px !important;
+}
+
+.VPDoc.has-aside .content-container {
+  max-width: 1102px !important;
 }

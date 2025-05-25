@@ -8,6 +8,10 @@ export default defineConfig({
   description: "Automate crypto pair trading",
   lastUpdated: true,
   themeConfig: {
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2025-present TBOTs You'
+    },
     logo: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/4a238427290248c9965c310afd7513e0a0199eb8/public/images/robot.svg',
     search: {
       provider: 'local'

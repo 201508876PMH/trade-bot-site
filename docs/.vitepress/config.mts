@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/trade-bot-site/',
+  base: '/',
   title: "T-BOTs",
-  head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/4a238427290248c9965c310afd7513e0a0199eb8/public/images/robot.svg' }]],
+  head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/201508876PMH/4a238427290248c9965c310afd7513e0a0199eb8/public/images/robot.svg' }]],
   description: "Automate crypto pair trading",
   lastUpdated: true,
   themeConfig: {
@@ -12,7 +12,7 @@ export default defineConfig({
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2025-present TBOTs'
     },
-    logo: 'https://raw.githubusercontent.com/201508876PMH/trade-bot-site/4a238427290248c9965c310afd7513e0a0199eb8/public/images/robot.svg',
+    logo: 'https://raw.githubusercontent.com/201508876PMH/4a238427290248c9965c310afd7513e0a0199eb8/public/images/robot.svg',
     search: {
       provider: 'local'
     },
@@ -21,11 +21,22 @@ export default defineConfig({
       { 
         text: 'Strategies',
         items: [
-          { text: 'BBScalper', link: '/bbscalper' }
+          { text: 'BBScalper', link: '/bbscalper/stats' }
         ]
       },
       { text: 'Team', link: '/team' },
     ],
+    sidebar: {
+       '/bbscalper/': [
+      {
+        text: 'Overview',
+        items: [
+          { text: 'Stats', link: '/bbscalper/stats' },
+          { text: 'Plots', link: '/bbscalper/plots' }
+        ]
+      }
+    ]
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/201508876PMH/BotArmy' },

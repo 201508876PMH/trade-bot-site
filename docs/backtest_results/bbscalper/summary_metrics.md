@@ -6,51 +6,51 @@
 │ Trading Mode                  │ Isolated Futures                │
 │ Max open trades               │ 3                               │
 │                               │                                 │
-│ Total/Daily Avg Trades        │ 348 / 0.94                      │
+│ Total/Daily Avg Trades        │ 411 / 1.1                       │
 │ Starting balance              │ 1000 USDT                       │
-│ Final balance                 │ 1239.811 USDT                   │
-│ Absolute profit               │ 239.811 USDT                    │
-│ Total profit %                │ 23.98%                          │
-│ CAGR %                        │ 23.48%                          │
-│ Sortino                       │ 2.55                            │
-│ Sharpe                        │ 0.50                            │
-│ Calmar                        │ 4.31                            │
-│ SQN                           │ 0.52                            │
-│ Profit factor                 │ 1.06                            │
-│ Expectancy (Ratio)            │ 0.69 (0.02)                     │
-│ Avg. daily profit %           │ 0.06%                           │
-│ Avg. stake amount             │ 338.691 USDT                    │
-│ Total trade volume            │ 235665.564 USDT                 │
+│ Final balance                 │ 1690.472 USDT                   │
+│ Absolute profit               │ 690.472 USDT                    │
+│ Total profit %                │ 69.05%                          │
+│ CAGR %                        │ 67.39%                          │
+│ Sortino                       │ 2.75                            │
+│ Sharpe                        │ 1.07                            │
+│ Calmar                        │ 13.14                           │
+│ SQN                           │ 1.03                            │
+│ Profit factor                 │ 1.12                            │
+│ Expectancy (Ratio)            │ 1.68 (0.04)                     │
+│ Avg. daily profit %           │ 0.19%                           │
+│ Avg. stake amount             │ 447.182 USDT                    │
+│ Total trade volume            │ 367273.535 USDT                 │
 │                               │                                 │
-│ Long / Short                  │ 173 / 175                       │
-│ Total profit Long %           │ -3.97%                          │
-│ Total profit Short %          │ 27.95%                          │
-│ Absolute profit Long          │ -39.721 USDT                    │
-│ Absolute profit Short         │ 279.532 USDT                    │
+│ Long / Short                  │ 187 / 224                       │
+│ Total profit Long %           │ 0.55%                           │
+│ Total profit Short %          │ 68.50%                          │
+│ Absolute profit Long          │ 5.474 USDT                      │
+│ Absolute profit Short         │ 684.998 USDT                    │
 │                               │                                 │
-│ Best Pair                     │ DOGE/USDT:USDT 21.69%           │
-│ Worst Pair                    │ ETH/USDT:USDT -13.86%           │
-│ Best trade                    │ ADA/USDT:USDT 8.45%             │
+│ Best Pair                     │ DOGE/USDT:USDT 43.41%           │
+│ Worst Pair                    │ SUI/USDT:USDT -9.86%            │
+│ Best trade                    │ SUI/USDT:USDT 8.50%             │
 │ Worst trade                   │ ETH/USDT:USDT -11.58%           │
-│ Best day                      │ 177.135 USDT                    │
-│ Worst day                     │ -94.978 USDT                    │
-│ Days win/draw/lose            │ 95 / 206 / 72                   │
-│ Min/Max/Avg. Duration Winners │ 0d 00:15 / 20d 12:00 / 2d 14:36 │
-│ Min/Max/Avg. Duration Losers  │ 0d 00:15 / 30d 19:15 / 4d 03:18 │
-│ Max Consecutive Wins / Loss   │ 15 / 4                          │
-│ Rejected Entry signals        │ 3310                            │
+│ Best day                      │ 288.172 USDT                    │
+│ Worst day                     │ -122.675 USDT                   │
+│ Days win/draw/lose            │ 112 / 179 / 82                  │
+│ Min/Max/Avg. Duration Winners │ 0d 00:15 / 20d 12:00 / 2d 01:27 │
+│ Min/Max/Avg. Duration Losers  │ 0d 00:30 / 30d 18:45 / 3d 23:22 │
+│ Max Consecutive Wins / Loss   │ 24 / 5                          │
+│ Rejected Entry signals        │ 10137                           │
 │ Entry/Exit Timeouts           │ 0 / 0                           │
 │                               │                                 │
-│ Min balance                   │ 814.014 USDT                    │
-│ Max balance                   │ 1340.935 USDT                   │
-│ Max % of account underwater   │ 28.60%                          │
-│ Absolute Drawdown (Account)   │ 28.60%                          │
-│ Absolute Drawdown             │ 383.515 USDT                    │
-│ Drawdown high                 │ 340.935 USDT                    │
-│ Drawdown low                  │ -42.58 USDT                     │
+│ Min balance                   │ 873.078 USDT                    │
+│ Max balance                   │ 2019.085 USDT                   │
+│ Max % of account underwater   │ 26.98%                          │
+│ Absolute Drawdown (Account)   │ 26.98%                          │
+│ Absolute Drawdown             │ 539.503 USDT                    │
+│ Drawdown high                 │ 999.698 USDT                    │
+│ Drawdown low                  │ 460.194 USDT                    │
 │ Drawdown Start                │ 2024-08-11 03:15:00             │
-│ Drawdown End                  │ 2024-11-05 00:00:00             │
-│ Market change                 │ 108.59%                         │
+│ Drawdown End                  │ 2024-11-06 15:15:00             │
+│ Market change                 │ 155.20%                         │
 └───────────────────────────────┴─────────────────────────────────┘
 
 Backtested 2024-01-03 02:00:00 -> 2025-01-09 23:30:00 | Max open trades : 3

@@ -27,46 +27,43 @@ Backtest results can be downloaed here: :bar_chart:<code>[bbscalper](https://git
   ]
 }
 ```
-## Backtest results
 
-The following section provides a detailed breakdown of the backtesting results for the **BBScalper** strategy.
-
-### **BACKTESTING REPORT**
+## Backtesting report
 
 ````md{8}
 <!--@include: ../backtest_results/bbscalper/backtest_report.md-->
 ````
 
-**LEFT OPEN TRADES REPORT**
+## Left open trades report
 
 ```md
 <!--@include: ../backtest_results/bbscalper/left_open_trades_report.md-->
 ```
 
-**ENTER TAG STATS**
+## Enter tag stats
 
 ```md
 <!--@include: ../backtest_results/bbscalper/enter_tags.md-->
 ```
 
-**EXIT REASON STATS**
+## Exit reason stats
 
 ```md
 <!--@include: ../backtest_results/bbscalper/exit_tags.md-->
 ```
-**MIXED TAG STATS**
+## Mixed tag stats
 
 ```md
 <!--@include: ../backtest_results/bbscalper/mixed_tags.md-->
 ```
 
-**SUMMARY METRICS**
+## Summary metrics
 
 ```md{13}
 <!--@include: ../backtest_results/bbscalper/summary_metrics.md-->
 ```
 
-**STRATEGY SUMMARY**
+## Strategy summary
 
 ```md
 <!--@include: ../backtest_results/bbscalper/strategy_summary.md-->
